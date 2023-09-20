@@ -1,0 +1,16 @@
+{
+  "name": "mini-project-w3schools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "new-test": "node-sass -w scss/main.scss -o css/ -r",
+    "new-test2": "node-sass -w scss/main.scss -o css/ -r --output-style compressed"
+  },
+  "keywords": [],
+  "author": "TinaMd",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
